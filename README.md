@@ -1,6 +1,6 @@
 # Greetings, I'm Davi Portela 👋
 
-I'm a musician and former food engineer who fell in love for technology industry.
+I'm a musician and former food engineer who fell in love for web development.
 
 ## 🖥️ Programming Skills
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/daviport)](https://github.com/daviport)
